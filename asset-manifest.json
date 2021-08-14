@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hello-react/static/css/main.14a3e1f0.chunk.css",
+    "main.js": "/hello-react/static/js/main.3d0d2641.chunk.js",
+    "main.js.map": "/hello-react/static/js/main.3d0d2641.chunk.js.map",
+    "runtime-main.js": "/hello-react/static/js/runtime-main.0c6de33e.js",
+    "runtime-main.js.map": "/hello-react/static/js/runtime-main.0c6de33e.js.map",
+    "static/css/2.95f25948.chunk.css": "/hello-react/static/css/2.95f25948.chunk.css",
+    "static/js/2.40e345d7.chunk.js": "/hello-react/static/js/2.40e345d7.chunk.js",
+    "static/js/2.40e345d7.chunk.js.map": "/hello-react/static/js/2.40e345d7.chunk.js.map",
+    "index.html": "/hello-react/index.html",
+    "static/css/2.95f25948.chunk.css.map": "/hello-react/static/css/2.95f25948.chunk.css.map",
+    "static/css/main.14a3e1f0.chunk.css.map": "/hello-react/static/css/main.14a3e1f0.chunk.css.map",
+    "static/js/2.40e345d7.chunk.js.LICENSE.txt": "/hello-react/static/js/2.40e345d7.chunk.js.LICENSE.txt",
+    "static/media/astronauts.ea532e99.svg": "/hello-react/static/media/astronauts.ea532e99.svg",
+    "static/media/badge-header.2c3af956.svg": "/hello-react/static/media/badge-header.2c3af956.svg",
+    "static/media/logo.235d00e1.svg": "/hello-react/static/media/logo.235d00e1.svg",
+    "static/media/platziconf-logo.c1d00c3e.svg": "/hello-react/static/media/platziconf-logo.c1d00c3e.svg",
+    "static/media/BadgeEdit.css": "/hello-react/static/media/stars.d4d2376b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c6de33e.js",
+    "static/css/2.95f25948.chunk.css",
+    "static/js/2.40e345d7.chunk.js",
+    "static/css/main.14a3e1f0.chunk.css",
+    "static/js/main.3d0d2641.chunk.js"
+  ]
+}
