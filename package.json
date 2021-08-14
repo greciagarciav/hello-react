@@ -2,6 +2,7 @@
   "name": "hello-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://greciagarciav.github.io/hello-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
@@ -18,6 +19,8 @@
   },
   "scripts": {
     "start": "npm-run-all -p client server",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "client": "react-scripts start",
     "server": "json-server --port 3001 --watch server/db.json",
     "seed": "node server/seed.js",
